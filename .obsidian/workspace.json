@@ -11,22 +11,12 @@
             "id": "3df00fc0b5797a7e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "8f45cf95468e2feb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bebdb1bbef92bfda",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Basics.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -95,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "Notes/Basics.md"
               }
             }
           }
@@ -155,11 +147,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "574c525251137bd8",
+  "active": "3df00fc0b5797a7e",
   "lastOpenFiles": [
-    "Simple Codes/first_code.cpp",
-    "Simple Codes",
-    "Codes",
+    "Simple Codes/output/jogo.exe",
+    "Simple Codes/jogo.cpp",
+    "Simple Codes/output/tests.exe",
+    "Simple Codes/tests.cpp",
+    "tests.cpp",
+    "Simple Codes/first_code.out",
+    "Simple Codes/first_code.exe",
+    "Simple Codes/output/first_code.exe",
+    "Simple Codes/output",
+    "Simple Codes/a.exe",
+    "Simple Codes/firs_code.out",
+    "Notes/Basics.md",
     "Welcome.md"
   ]
 }
